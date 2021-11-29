@@ -2,7 +2,6 @@ const taskContainer = document.querySelector(".todos");
 const tasksList = document.querySelector(".tasks");
 const btnAdd = document.querySelector(".btn-add");
 const inputTask = document.querySelector("#input-add-task");
-const btnParrent = document.querySelector("li");
 
 let tasks = [];
 let id = 0;
