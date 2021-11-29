@@ -1,5 +1,5 @@
 # Simple to-do application
-Simple to-do application that uses local storage to store todo items
+Simple to-do application that uses local storage to store todo tasks
 
 Is posible to create new tasks, delete tasks and mark tasks as done
 
